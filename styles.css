@@ -69,6 +69,7 @@ hr {
 .top-container {
   background-color: rgb(228, 249, 245);
   height: 100vh;
+  min-height: 710px;
   width: 100vw;
   padding: 30px;
 }
